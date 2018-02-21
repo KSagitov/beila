@@ -1,0 +1,73 @@
+/* btn */
+.btn1:not(:hover) {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #88e1fb;	
+	color: #fff;
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+.btn2:not(:hover) {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f4c87c;	
+	color: #fff;
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+.btn3:not(:hover) {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #e38587;	
+	color: #fff;
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+.btn4:not(:hover) {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #a557f9;	
+	color: #fff;
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+/* btn use */
+.btn1:hover {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #88e1fb;	
+	color: #fff;
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+.btn2:hover {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #f4c87c;	
+	color: #fff;
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+.btn3:hover {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #e38587;	
+	color: #fff;
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+.btn4:hover {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #a557f9;	
+	color: #fff;
+	text-decoration: none;
+	transition: 0.5s;
+}
