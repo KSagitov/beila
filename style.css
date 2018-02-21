@@ -1,5 +1,5 @@
 /* btn */
-.btn1:not(:hover) {
+.btn1 {
     padding: 10px;
     border-radius: 10px;
     background-color: #88e1fb;	
@@ -8,7 +8,7 @@
 	transition: 0.5s;
 }
 
-.btn2:not(:hover) {
+.btn2 {
     padding: 10px;
     border-radius: 10px;
     background-color: #f4c87c;	
@@ -17,7 +17,7 @@
 	transition: 0.5s;
 }
 
-.btn3:not(:hover) {
+.btn3 {
     padding: 10px;
     border-radius: 10px;
     background-color: #e38587;	
@@ -26,7 +26,7 @@
 	transition: 0.5s;
 }
 
-.btn4:not(:hover) {
+.btn4 {
     padding: 10px;
     border-radius: 10px;
     background-color: #a557f9;	
@@ -35,39 +35,42 @@
 	transition: 0.5s;
 }
 
-/* btn use */
-.btn1:hover {
+.btn5 {
     padding: 10px;
     border-radius: 10px;
-    background-color: #88e1fb;	
+    background-color: #84b3fc;	
 	color: #fff;
 	text-decoration: none;
 	transition: 0.5s;
 }
 
-.btn2:hover {
+.btn6 {
     padding: 10px;
     border-radius: 10px;
-    background-color: #f4c87c;	
+    background-color: #d270a6;	
 	color: #fff;
 	text-decoration: none;
 	transition: 0.5s;
 }
 
-.btn3:hover {
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #e38587;	
-	color: #fff;
-	text-decoration: none;
-	transition: 0.5s;
+/* block */
+.block1 {
+	background-color: #88e1fb;	
+	width: 90%;
+	height: 30px;
+	border-radius: 5px;
 }
 
-.btn4:hover {
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #a557f9;	
-	color: #fff;
-	text-decoration: none;
-	transition: 0.5s;
+.block2 {
+	background-color: #f4c87c;	
+	width: 90%;
+	height: 30px;
+	border-radius: 5px;
+}
+
+.block3 {
+	background-color: #e38587;	
+	width: 90%;
+	height: 30px;
+	border-radius: 5px;
 }
